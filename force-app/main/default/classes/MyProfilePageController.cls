@@ -5,6 +5,7 @@
 public with sharing class MyProfilePageController {
 
     private User user;
+    //Comment added
     private boolean isEdit = false;
 
     public User getUser() {
